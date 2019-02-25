@@ -1,0 +1,29 @@
+1543412277134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lhObS5NIHHPu"
+1543412290122	Marionette	INFO	Listening on port 35045
+1543412290238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543417131816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.095ttjr6aEJX"
+1543417137069	Marionette	INFO	Listening on port 44579
+1543417137116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9745, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9704, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9683, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543417570761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Il60mxz2BPF7"
+1543417575239	Marionette	INFO	Listening on port 39433
+1543417575306	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543461500671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jXehCd5VioZ5"
+1543461509382	Marionette	INFO	Listening on port 37825
+1543461509489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543461568105	Marionette	INFO	Stopped listening on port 37825
+1543461573764	Marionette	INFO	Stopped listening on port 39433
